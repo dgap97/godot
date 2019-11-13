@@ -1154,6 +1154,7 @@ static const char *_axes[JOY_AXIS_MAX] = {
 	"L2",
 	"R2",
 	"",
+	"",
 	""
 };
 
