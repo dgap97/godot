@@ -1155,7 +1155,8 @@ static const char *_axes[JOY_AXIS_MAX] = {
 	"R2",
 	"",
 	"",
-	""
+	"",
+    ""
 };
 
 String InputDefault::get_joy_button_string(int p_button) {
